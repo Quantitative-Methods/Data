@@ -28,7 +28,7 @@
 - KM_ISHOD - Ishod pismenog ispita iz predmeta Kvantitativne metode
 - KM_OCJENA - Ocijena pismenog ispita iz predmeta Kvantitativne metode
 
-## KOS.csv (n = 100, m = 11)
+## KOS.csv (n = 25, m = 8)
 - POZICIJA - Pozicija u igri
 - MJERENJE - Mjerenje
 - AVMT - Tjelesna masa
@@ -38,7 +38,7 @@
 - MAG20Y - Test agilnosti 20 jardi
 - S20m - Sprin 20 metara
 
-## MUHCS20m.csv (n = 100, m = 11)
+## MUHCS20m.csv (n = 31, m = 3)
 - MUHCS20m1 - Unilateralni horizontalni ciklički skokovi 1. mjerenje
 - MUHCS20m2 - Unilateralni horizontalni ciklički skokovi 2. mjerenje
 - MUHCS20m3 - Unilateralni horizontalni ciklički skokovi 3. mjerenje
