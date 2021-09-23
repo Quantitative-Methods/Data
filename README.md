@@ -1,7 +1,8 @@
 ## GIM.csv (n = 103, m = 12)
 - FEDSM1 - Skok u dalj s mjesta 1. mjerenje
 - FEDSM2 - Skok u dalj s mjesta 2. mjerenje
-- FEDSM3 - Skok u dalj s mjesta 3. mjerenjeBFPTAP1	Taping rukom 1. mjerenje
+- FEDSM3 - Skok u dalj s mjesta 3. mjerenje
+- BFPTAP1	- Taping rukom 1. mjerenje
 - BFPTAP2 - Taping rukom 2. mjerenje
 - BFPTAP3 - Taping rukom 3. mjerenje
 - FLPRR1 - Pretklon raznožno 1. mjerenje
