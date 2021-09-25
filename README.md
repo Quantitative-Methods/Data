@@ -43,7 +43,7 @@
 - MUHCS20m2 - Unilateralni horizontalni ciklički skokovi 2. mjerenje
 - MUHCS20m3 - Unilateralni horizontalni ciklički skokovi 3. mjerenje
 
-## POD.csv (n=120, m=5)
+## POD.csv (n = 120, m = 5)
 - MJERENJE - Mjerenje
 - ATT - Tjelesna težina
 - MPOTR - Podizanje trupa
@@ -84,11 +84,6 @@
 - MDTR - Podizanje trupa
 - MVIS - Izdržaj u visu
 
-## VISEBOJ.csv (n = 10, m = 3)
-- SD - Skok u dalj
-- T100m - Trčanje na 100 metara
-- BK - Bacanje kugle
-
 ## VZA.csv (n = 60, m = 12)
 - ISHOD - Ishod utakmice
 - BIBL - Blok na igraču bez lopte
@@ -102,7 +97,3 @@
 - SLB - Slobodna bacanja
 - UR - Uručivanje
 - OA - Ostale akcije
-
-
-
-
