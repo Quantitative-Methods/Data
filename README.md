@@ -13,7 +13,7 @@
 - AGKUS3 - Koraci u stranu 3. mjerenje
 
 ## JUDO3F.csv (n = 60, m = 9)
-- ONT - Okretost na tlu
+- ONT - Okretnost na tlu
 - OUZ - Okretnost u zraku
 - NEB - Neritmično bubnjanje
 - SKL - Sklekovi
@@ -21,12 +21,12 @@
 - CUC - Čučnjevi
 - SDM - Skok u dalj s mjesta
 - BML - Bacanje medicinske lopte iz ležanja
-- T20m - Trčanja 20 metara
+- T20m - Trčanje 20 metara
 
 ## KM.csv (n = 40, m = 3)
 - SPOL - Spol
 - KM_ISHOD - Ishod pismenog ispita iz predmeta Kvantitativne metode
-- KM_OCJENA - Ocijena pismenog ispita iz predmeta Kvantitativne metode
+- KM_OCJENA - Ocjena pismenog ispita iz predmeta Kvantitativne metode
 
 ## KOS.csv (n = 25, m = 8)
 - POZICIJA - Pozicija u igri
@@ -36,7 +36,7 @@
 - FAEIJOJO - JOJO test izdržljivosti
 - RVO2 - Relativni primitak kisika
 - MAG20Y - Test agilnosti 20 jardi
-- S20m - Sprin 20 metara
+- S20m - Sprint 20 metara
 
 ## MUHCS20m.csv (n = 31, m = 3)
 - MUHCS20m1 - Unilateralni horizontalni ciklički skokovi 1. mjerenje
@@ -68,7 +68,7 @@
 - TEST - Test za procjenu eksplozivne jakosti
 
 ## UCENICI.csv (n = 318, m = 16)
-- KRAJ - Gorski i Primorski kraj
+- KRAJ - Gorski i primorski kraj
 - RAZRED - Razred osnovne škole
 - SPOL - Spol
 - ATV - Tjelesna visina
